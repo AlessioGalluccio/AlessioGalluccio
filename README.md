@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I am a Computer Science and Engineering student at Politecnico di Milano
 
 I’m currently working on a grad thesis on normalizing flows for anomaly detection
+
+If you are searching for the FastFlow repository, I'm sorry but I had to make it private, since it's still uncompleted and it can't be used in any way in the current state. Someone added my code to paperswithcode.com without asking me. When it will be in an acceptable state, I will make it public again.
