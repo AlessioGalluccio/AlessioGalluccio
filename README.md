@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Computer Science and Engineering student at Politecnico di Milano
+I am a Computer Science and Engineering graduate at Politecnico di Milano.
 
-I’m currently working on a grad thesis on normalizing flows for anomaly detection
+I completed a grad thesis on Normalizing Flows for Anomaly Detection. I am currently searching for a job as Machine Learning Engineer.
