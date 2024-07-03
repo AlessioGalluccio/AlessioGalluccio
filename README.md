@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am a DevOps and Test Automation Engineer with a background in Machine Learning.
-- 🔭 I completed a grad thesis on Generative Computer Vision ML (Normalizing Flows) for Anomaly Detection for Pirelli. 
+- 🔭 I completed a grad thesis on Generative Computer Vision ML (Normalizing Flows) for Anomaly Detection. 
 - 🌱 I am currently learning Kubernetes, Helm, Terraform, and MLOPS
