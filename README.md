@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Computer Science and Engineering graduate at Politecnico di Milano.
-
-I completed a grad thesis on Normalizing Flows for Anomaly Detection. I am currently searching for a job as Machine Learning Engineer.
+I am a DevOps and Test Automation Engineer with a background in Machine Learning.
+- 🔭 I completed a grad thesis on Generative Computer Vision ML (Normalizing Flows) for Anomaly Detection for Pirelli. 
+- 🌱 I am currently learning Kubernetes, Helm, Terraform, and MLOPS
