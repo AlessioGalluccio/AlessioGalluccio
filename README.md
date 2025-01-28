@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a DevOps and Test Automation Engineer with a background in Machine Learning.
-- 🔭 I completed a grad thesis on Generative Computer Vision ML (Normalizing Flows) for Anomaly Detection. 
-- 🌱 I am currently learning Kubernetes, Helm, Terraform, and MLOPS
+I am a Platform Engineer with a focus on MLOps.
+- 🔭 I completed a grad thesis on Generative Computer Vision ML (Normalizing Flows) for Anomaly Detection for Pirelli.
+- ⚡ I am currently working on Microsoft Fabric, deploying ML models using the platform.
+- 🌱 I am currently improving my skills on Kubernetes, Helm, and Terraform.
