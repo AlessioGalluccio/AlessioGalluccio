@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Platform Engineer with a focus on MLOps.
-- 🔭 I completed a grad thesis on Generative Computer Vision ML (Normalizing Flows) for Anomaly Detection for Pirelli.
-- ⚡ I am currently working on Microsoft Fabric, deploying ML models using the platform.
-- 🌱 I am currently improving my skills on Kubernetes, Helm, and Terraform.
+I am a Platform Engineer with a focus on MLOps and Gen AI.
+- I completed a grad thesis on Generative Computer Vision ML (Normalizing Flows) for Anomaly Detection for Pirelli.
+- I am currently working on Kubernetes and Microsoft Fabric, deploying ML and Gen AI models using those platform.
