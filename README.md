@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Platform Engineer with a focus on MLOps and Gen AI.
-- I completed a grad thesis on Generative Computer Vision ML (Normalizing Flows) for Anomaly Detection for Pirelli.
-- I am currently working on Kubernetes and MCP, deploying ML and Gen AI models using those platform.
+Platform Engineer building production infrastructure for AI/ML at scale.
+
+- Developed Normalizing Flows for manufacturing anomaly detection (Master's Thesis at Pirelli)
+- Design Kubernetes-native platforms serving ML and generative AI models
+- Contributing to Model Context Protocol (MCP) - next-gen AI agent communication standard
